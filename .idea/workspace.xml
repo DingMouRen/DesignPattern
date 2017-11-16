@@ -2,19 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3ea1d74-1670-4c15-ae99-40dd9ce7efc7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design4_装饰者模式/sample_1/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design4_装饰者模式/sample_1/component/Component.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design4_装饰者模式/sample_1/component/ConcreteComponent.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design4_装饰者模式/sample_1/decorator/ConcreteDecoratorA.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design4_装饰者模式/sample_1/decorator/ConcreteDecoratorB.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design4_装饰者模式/sample_1/decorator/Decorator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design4_装饰者模式/sample_2/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design4_装饰者模式/sample_2/component/Boy.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design4_装饰者模式/sample_2/component/Girl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design4_装饰者模式/sample_2/component/Person.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design4_装饰者模式/sample_2/decorator/CheapCloth.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design4_装饰者模式/sample_2/decorator/ExpensiveCloth.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design4_装饰者模式/sample_2/decorator/PersonCloth.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design5_工厂方法模式/sample_1/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design5_工厂方法模式/sample_1/factory/ConcreteFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design5_工厂方法模式/sample_1/factory/Factory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design5_工厂方法模式/sample_1/product/ConcreteProductA.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design5_工厂方法模式/sample_1/product/ConcreteProductB.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design5_工厂方法模式/sample_1/product/Product.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design5_工厂方法模式/sample_2/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design5_工厂方法模式/sample_2/factory/BikeFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design5_工厂方法模式/sample_2/factory/Factory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design5_工厂方法模式/sample_2/product/Bike.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design5_工厂方法模式/sample_2/product/GeneralBike.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design5_工厂方法模式/sample_2/product/MountainBike.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design6_抽象工厂模式/sample_1/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design6_抽象工厂模式/sample_1/factory/abstractFactory/AbstractFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design6_抽象工厂模式/sample_1/factory/concreteFactory/ConcreteFactory1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design6_抽象工厂模式/sample_1/factory/concreteFactory/ConcreteFactory2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design6_抽象工厂模式/sample_1/product/abstractProduct/AbstractProductA.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design6_抽象工厂模式/sample_1/product/abstractProduct/AbstractProductB.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design6_抽象工厂模式/sample_1/product/concreteProduct/A/ConcreteProductA1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design6_抽象工厂模式/sample_1/product/concreteProduct/A/ConcreteProductA2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design6_抽象工厂模式/sample_1/product/concreteProduct/B/ConcreteProductB1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design6_抽象工厂模式/sample_1/product/concreteProduct/B/ConcreteProductB2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design6_抽象工厂模式/sample_2/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design6_抽象工厂模式/sample_2/factory/abstractFactory/BikeFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design6_抽象工厂模式/sample_2/factory/concreteFactory/GeneralBikeFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design6_抽象工厂模式/sample_2/factory/concreteFactory/MountainBikeFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design6_抽象工厂模式/sample_2/product/abstractProduct/HandleBar.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design6_抽象工厂模式/sample_2/product/abstractProduct/Tyre.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design6_抽象工厂模式/sample_2/product/concreteProduct/handleBar/GeneralBikeHandleBar.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design6_抽象工厂模式/sample_2/product/concreteProduct/handleBar/MountainBikeHandleBar.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design6_抽象工厂模式/sample_2/product/concreteProduct/tyre/GeneralBikeTyre.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design6_抽象工厂模式/sample_2/product/concreteProduct/tyre/MountainBikeTyre.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/DesignPattern/design4_装饰者模式/sample_2/Test.class" afterPath="$PROJECT_DIR$/out/production/DesignPattern/design4_装饰者模式/sample_2/Test.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/DesignPattern/design4_装饰者模式/sample_2/decorator/CheapCloth.class" afterPath="$PROJECT_DIR$/out/production/DesignPattern/design4_装饰者模式/sample_2/decorator/CheapCloth.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/DesignPattern/design4_装饰者模式/sample_2/decorator/ExpensiveCloth.class" afterPath="$PROJECT_DIR$/out/production/DesignPattern/design4_装饰者模式/sample_2/decorator/ExpensiveCloth.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -27,11 +49,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/design4_装饰者模式/sample_1/Test.java">
+      <file leaf-file-name="BikeFactory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/design6_抽象工厂模式/sample_2/factory/abstractFactory/BikeFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="17" column="29" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="17" selection-end-column="29" />
+            <state relative-caret-position="100">
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -39,23 +61,43 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/design3_观察者模式/自己实现/Test.java">
+      <file leaf-file-name="GeneralBikeFactory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/design6_抽象工厂模式/sample_2/factory/concreteFactory/GeneralBikeFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="15" column="5" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="15" selection-end-column="5" />
+            <state relative-caret-position="160">
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#529#530#0" expanded="true" />
+                <element signature="e#573#574#0" expanded="true" />
+                <element signature="e#629#630#0" expanded="true" />
+                <element signature="e#678#679#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MountainBikeFactory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/design6_抽象工厂模式/sample_2/factory/concreteFactory/MountainBikeFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#530#531#0" expanded="true" />
+                <element signature="e#575#576#0" expanded="true" />
+                <element signature="e#631#632#0" expanded="true" />
+                <element signature="e#681#682#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Test.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/design4_装饰者模式/sample_2/Test.java">
+        <entry file="file://$PROJECT_DIR$/src/design6_抽象工厂模式/sample_2/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="14" column="14" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="24" selection-end-column="5" />
+            <state relative-caret-position="380">
+              <caret line="19" column="5" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="19" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -63,63 +105,73 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PersonCloth.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/design4_装饰者模式/sample_2/decorator/PersonCloth.java">
+      <file leaf-file-name="HandleBar.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/design6_抽象工厂模式/sample_2/product/abstractProduct/HandleBar.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="25" selection-end-column="1" />
-              <folding>
-                <element signature="e#487#488#0" expanded="true" />
-                <element signature="e#543#544#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ExpensiveCloth.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/design4_装饰者模式/sample_2/decorator/ExpensiveCloth.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="3" column="7" lean-forward="false" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-              <folding>
-                <element signature="e#520#521#0" expanded="true" />
-                <element signature="e#601#602#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CheapCloth.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/design4_装饰者模式/sample_2/decorator/CheapCloth.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-              <folding>
-                <element signature="e#383#384#0" expanded="true" />
-                <element signature="e#463#464#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Person.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/design4_装饰者模式/sample_2/component/Person.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+            <state relative-caret-position="80">
+              <caret line="4" column="22" lean-forward="false" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Boy.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/design4_装饰者模式/sample_2/component/Boy.java">
+      <file leaf-file-name="Tyre.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/design6_抽象工厂模式/sample_2/product/abstractProduct/Tyre.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="20">
-              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GeneralBikeTyre.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/design6_抽象工厂模式/sample_2/product/concreteProduct/tyre/GeneralBikeTyre.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding>
-                <element signature="e#137#138#0" expanded="true" />
-                <element signature="e#206#207#0" expanded="true" />
+                <element signature="e#231#232#0" expanded="true" />
+                <element signature="e#288#289#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GeneralBikeHandleBar.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/design6_抽象工厂模式/sample_2/product/concreteProduct/handleBar/GeneralBikeHandleBar.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="8" column="50" lean-forward="false" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
+              <folding>
+                <element signature="e#252#253#0" expanded="true" />
+                <element signature="e#309#310#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MountainBikeHandleBar.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/design6_抽象工厂模式/sample_2/product/concreteProduct/handleBar/MountainBikeHandleBar.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="8" column="50" lean-forward="false" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
+              <folding>
+                <element signature="e#250#251#0" expanded="true" />
+                <element signature="e#307#308#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MountainBikeTyre.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/design6_抽象工厂模式/sample_2/product/concreteProduct/tyre/MountainBikeTyre.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="10" selection-end-column="1" />
+              <folding>
+                <element signature="e#231#232#0" expanded="true" />
+                <element signature="e#288#289#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -130,6 +182,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="FxmlFile" />
         <option value="Interface" />
         <option value="Class" />
       </list>
@@ -146,34 +199,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/design1_策略模式/Person.java" />
-        <option value="$PROJECT_DIR$/src/design1_策略模式/impl_stragety/Stragety.java" />
-        <option value="$PROJECT_DIR$/src/design1_策略模式/interface_stragety/StragetyAdd.java" />
-        <option value="$PROJECT_DIR$/src/design1_策略模式/interface_stragety/Stragety.java" />
-        <option value="$PROJECT_DIR$/src/design1_策略模式/impl_stragety/StragetyAdd.java" />
-        <option value="$PROJECT_DIR$/src/design1_策略模式/impl_stragety/StargetyMultiply.java" />
-        <option value="$PROJECT_DIR$/src/design1_策略模式/Test.java" />
-        <option value="$PROJECT_DIR$/src/design1_策略模式/Student.java" />
-        <option value="$PROJECT_DIR$/src/design2_构建者模式/InsuranceContract.java" />
-        <option value="$PROJECT_DIR$/src/design2_构建者模式/Test.java" />
-        <option value="$PROJECT_DIR$/src/design3_观察者模式/Test.java" />
-        <option value="$PROJECT_DIR$/src/design3_观察者模式/自己实现/observable/Subject.java" />
-        <option value="$PROJECT_DIR$/src/design3_观察者模式/自己实现/observable/ConcreteSubject.java" />
-        <option value="$PROJECT_DIR$/src/design3_观察者模式/自己实现/observer/Observer.java" />
-        <option value="$PROJECT_DIR$/src/design3_观察者模式/自己实现/observer/ConcreteObserver_2.java" />
-        <option value="$PROJECT_DIR$/src/design3_观察者模式/自己实现/Test.java" />
-        <option value="$PROJECT_DIR$/src/design3_观察者模式/自己实现/observer/ConcreteObserver_1.java" />
-        <option value="$PROJECT_DIR$/src/design3_观察者模式/javaApi实现/observable/ConcreteObservable.java" />
-        <option value="$PROJECT_DIR$/src/design3_观察者模式/javaApi实现/observer/ConcreteObserver_1.java" />
-        <option value="$PROJECT_DIR$/src/design3_观察者模式/javaApi实现/observer/ConcreteObserver_2.java" />
-        <option value="$PROJECT_DIR$/src/design3_观察者模式/javaApi实现/Test.java" />
-        <option value="$PROJECT_DIR$/src/design3_观察者模式/自己实现/observer/DisplayNewData.java" />
-        <option value="$PROJECT_DIR$/src/design4_装饰者模式/Component.java" />
-        <option value="$PROJECT_DIR$/src/design4_装饰者模式/ConcreteComponent.java" />
-        <option value="$PROJECT_DIR$/src/design4_装饰者模式/Decorator.java" />
-        <option value="$PROJECT_DIR$/src/design4_装饰者模式/component/Component.java" />
-        <option value="$PROJECT_DIR$/src/design4_装饰者模式/component/ConcreteComponent.java" />
-        <option value="$PROJECT_DIR$/src/design4_装饰者模式/decorator/Decorator.java" />
         <option value="$PROJECT_DIR$/src/design4_装饰者模式/Test.java" />
         <option value="$PROJECT_DIR$/src/design4_装饰者模式/decorator/ConcreteDecoratorB.java" />
         <option value="$PROJECT_DIR$/src/design4_装饰者模式/decorator/ConcreteDecoratorA.java" />
@@ -185,6 +210,46 @@
         <option value="$PROJECT_DIR$/src/design4_装饰者模式/sample_2/Test.java" />
         <option value="$PROJECT_DIR$/src/design4_装饰者模式/sample_2/decorator/CheapCloth.java" />
         <option value="$PROJECT_DIR$/src/design4_装饰者模式/sample_2/decorator/ExpensiveCloth.java" />
+        <option value="$PROJECT_DIR$/src/design5_工厂方法模式/sample_1/product/Product.java" />
+        <option value="$PROJECT_DIR$/src/design5_工厂方法模式/sample_1/product/ConcreteProductA.java" />
+        <option value="$PROJECT_DIR$/src/design5_工厂方法模式/sample_1/product/ConcreteProductB.java" />
+        <option value="$PROJECT_DIR$/src/design5_工厂方法模式/sample_1/factory/Factory.java" />
+        <option value="$PROJECT_DIR$/src/design5_工厂方法模式/sample_1/factory/ConcreteFactory.java" />
+        <option value="$PROJECT_DIR$/src/design5_工厂方法模式/sample_1/Test.java" />
+        <option value="$PROJECT_DIR$/src/design5_工厂方法模式/sample_1/factory/ConcreteFactoryA.java" />
+        <option value="$PROJECT_DIR$/src/design5_工厂方法模式/sample_2/factory/Factory.java" />
+        <option value="$PROJECT_DIR$/src/design5_工厂方法模式/sample_2/factory/BikeFactory.java" />
+        <option value="$PROJECT_DIR$/src/design5_工厂方法模式/sample_2/product/Bike.java" />
+        <option value="$PROJECT_DIR$/src/design5_工厂方法模式/sample_2/product/GeneralBike.java" />
+        <option value="$PROJECT_DIR$/src/design5_工厂方法模式/sample_2/product/MountainBike.java" />
+        <option value="$PROJECT_DIR$/src/design5_工厂方法模式/sample_2/Test.java" />
+        <option value="$PROJECT_DIR$/src/design6_抽象工厂模式/Test.java" />
+        <option value="$PROJECT_DIR$/src/design6_抽象工厂模式/sample_1/product/abstractProduct/AbstractProductA.java" />
+        <option value="$PROJECT_DIR$/src/design6_抽象工厂模式/sample_1/product/abstractProduct/AbstractProductB.java" />
+        <option value="$PROJECT_DIR$/src/design6_抽象工厂模式/sample_1/product/concreteProduct/ConcreteProductA1.java" />
+        <option value="$PROJECT_DIR$/src/design6_抽象工厂模式/sample_1/product/concreteProduct/A/ConcreteProductA1.java" />
+        <option value="$PROJECT_DIR$/src/design6_抽象工厂模式/sample_1/product/concreteProduct/A/ConcreteProductA2.java" />
+        <option value="$PROJECT_DIR$/src/design6_抽象工厂模式/sample_1/product/concreteProduct/B/ConcreteProductB1.java" />
+        <option value="$PROJECT_DIR$/src/design6_抽象工厂模式/sample_1/product/concreteProduct/B/ConcreteProductB2.java" />
+        <option value="$PROJECT_DIR$/src/design6_抽象工厂模式/sample_1/factory/abstractFactory/AbstractFactory.java" />
+        <option value="$PROJECT_DIR$/src/design6_抽象工厂模式/sample_1/factory/concreteFactory/ConcreteFactory1.java" />
+        <option value="$PROJECT_DIR$/src/design6_抽象工厂模式/sample_1/factory/concreteFactory/ConcreteFactory2.java" />
+        <option value="$PROJECT_DIR$/src/design6_抽象工厂模式/sample_1/Test.java" />
+        <option value="$PROJECT_DIR$/src/design6_抽象工厂模式/sample_2/factory/BikeFactory.java" />
+        <option value="$PROJECT_DIR$/src/design6_抽象工厂模式/sample_2/factory/concreteFactory/MoutainBikeFactory.java" />
+        <option value="$PROJECT_DIR$/src/design6_抽象工厂模式/sample_2/product/Tyre.java" />
+        <option value="$PROJECT_DIR$/src/design6_抽象工厂模式/sample_2/product/abstractProduct/Tyre.java" />
+        <option value="$PROJECT_DIR$/src/design6_抽象工厂模式/sample_2/product/abstractProduct/HandleBar.java" />
+        <option value="$PROJECT_DIR$/src/design6_抽象工厂模式/sample_2/product/concreteProduct/handleBar/GeneralTyre.java" />
+        <option value="$PROJECT_DIR$/src/design6_抽象工厂模式/sample_2/product/concreteProduct/tyre/GeneralTyre.java" />
+        <option value="$PROJECT_DIR$/src/design6_抽象工厂模式/sample_2/factory/abstractFactory/BikeFactory.java" />
+        <option value="$PROJECT_DIR$/src/design6_抽象工厂模式/sample_2/product/concreteProduct/tyre/MountainBikeTyre.java" />
+        <option value="$PROJECT_DIR$/src/design6_抽象工厂模式/sample_2/product/concreteProduct/tyre/GeneralBikeTyre.java" />
+        <option value="$PROJECT_DIR$/src/design6_抽象工厂模式/sample_2/product/concreteProduct/handleBar/GeneralBikeHandleBar.java" />
+        <option value="$PROJECT_DIR$/src/design6_抽象工厂模式/sample_2/product/concreteProduct/handleBar/MountainBikeHandleBar.java" />
+        <option value="$PROJECT_DIR$/src/design6_抽象工厂模式/sample_2/factory/concreteFactory/GeneralBikeFactory.java" />
+        <option value="$PROJECT_DIR$/src/design6_抽象工厂模式/sample_2/factory/concreteFactory/MountainBikeFactory.java" />
+        <option value="$PROJECT_DIR$/src/design6_抽象工厂模式/sample_2/Test.java" />
       </list>
     </option>
   </component>
@@ -195,9 +260,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="83" />
-    <option name="y" value="25" />
-    <option name="width" value="1936" />
+    <option name="x" value="300" />
+    <option name="y" value="65" />
+    <option name="width" value="1304" />
     <option name="height" value="914" />
   </component>
   <component name="ProjectView">
@@ -235,66 +300,13 @@
               <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="design3_观察者模式" type="462c0819:PsiDirectoryNode" />
+              <item name="design5_工厂方法模式" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="design3_观察者模式" type="462c0819:PsiDirectoryNode" />
-              <item name="自己实现" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="design4_装饰者模式" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="design4_装饰者模式" type="462c0819:PsiDirectoryNode" />
-              <item name="sample_1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="design4_装饰者模式" type="462c0819:PsiDirectoryNode" />
-              <item name="sample_1" type="462c0819:PsiDirectoryNode" />
-              <item name="component" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="design4_装饰者模式" type="462c0819:PsiDirectoryNode" />
-              <item name="sample_1" type="462c0819:PsiDirectoryNode" />
-              <item name="decorator" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="design4_装饰者模式" type="462c0819:PsiDirectoryNode" />
-              <item name="sample_2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="design4_装饰者模式" type="462c0819:PsiDirectoryNode" />
-              <item name="sample_2" type="462c0819:PsiDirectoryNode" />
-              <item name="component" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="design4_装饰者模式" type="462c0819:PsiDirectoryNode" />
-              <item name="sample_2" type="462c0819:PsiDirectoryNode" />
-              <item name="decorator" type="462c0819:PsiDirectoryNode" />
+              <item name="design6_抽象工厂模式" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -330,15 +342,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test (4)">
+  <component name="RunManager" selected="Application.Test (2)">
     <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="design3_观察者模式.*" />
+          <option name="PATTERN" value="design6_抽象工厂模式.sample_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="design3_观察者模式.Test" />
+      <option name="MAIN_CLASS_NAME" value="design6_抽象工厂模式.sample_1.Test" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -353,30 +365,11 @@
     <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="design3_观察者模式.自己实现.*" />
+          <option name="PATTERN" value="design6_抽象工厂模式.sample_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="design3_观察者模式.自己实现.Test" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="DesignPattern" />
-      <envs />
-    </configuration>
-    <configuration name="Test (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="design3_观察者模式.javaApi实现.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="design3_观察者模式.javaApi实现.Test" />
+      <option name="MAIN_CLASS_NAME" value="design6_抽象工厂模式.sample_2.Test" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -407,14 +400,33 @@
       <module name="DesignPattern" />
       <envs />
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Test (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="design1_策略模式.*" />
+          <option name="PATTERN" value="design5_工厂方法模式.sample_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="design1_策略模式.Test" />
+      <option name="MAIN_CLASS_NAME" value="design5_工厂方法模式.sample_1.Test" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="DesignPattern" />
+      <envs />
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="design5_工厂方法模式.sample_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="design5_工厂方法模式.sample_2.Test" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -508,19 +520,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Test" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Test (1)" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Test (2)" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Test (3)" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Test (4)" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Test (4)" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Test (5)" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Test" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Test (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Test (2)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Test (4)" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Test (3)" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Test (2)" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Test (1)" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Test" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Test (2)" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Test (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Test" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Test (5)" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Test (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -535,15 +547,15 @@
       <option name="presentableId" value="Default" />
       <updated>1510710436143</updated>
       <workItem from="1510710438995" duration="13462000" />
-      <workItem from="1510743739908" duration="10291000" />
+      <workItem from="1510743739908" duration="20350000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23753000" />
+    <option name="totallyTimeSpent" value="33812000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="83" y="25" width="1936" height="914" extended-state="0" />
+    <frame x="300" y="65" width="1304" height="914" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -558,7 +570,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14895834" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26708075" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -614,145 +626,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/design4_装饰者模式/sample_1/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/design1_策略模式/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/design1_策略模式/interface_stragety/Stragety.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/design1_策略模式/impl_stragety/StragetyAdd.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/design1_策略模式/impl_stragety/StargetyMultiply.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/design1_策略模式/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" column="5" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="14" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/design2_构建者模式/InsuranceContract.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="852">
-          <caret line="132" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="132" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/design3_观察者模式/Test.java" />
-    <entry file="file://$PROJECT_DIR$/src/design2_构建者模式/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/design3_观察者模式/自己实现/observer/ConcreteObserver_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/design3_观察者模式/javaApi实现/observer/DisplayNewData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/design3_观察者模式/javaApi实现/observable/ConcreteObservable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="31" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/design3_观察者模式/javaApi实现/observer/ConcreteObserver_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="24" column="38" lean-forward="false" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/design3_观察者模式/javaApi实现/observer/ConcreteObserver_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="24" column="38" lean-forward="false" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/design3_观察者模式/javaApi实现/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="26" lean-forward="false" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/design3_观察者模式/自己实现/observable/Subject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/design3_观察者模式/自己实现/observable/ConcreteSubject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="467">
-          <caret line="64" column="1" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="64" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/design3_观察者模式/自己实现/observer/Observer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/design3_观察者模式/自己实现/observer/DisplayNewData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/design3_观察者模式/自己实现/observer/ConcreteObserver_1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="227">
@@ -765,7 +638,7 @@
         <state relative-caret-position="340">
           <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -810,8 +683,8 @@
         <state relative-caret-position="120">
           <caret line="6" column="54" lean-forward="false" selection-start-line="6" selection-start-column="54" selection-end-line="6" selection-end-column="54" />
           <folding>
-            <element signature="e#137#138#0" expanded="true" />
-            <element signature="e#205#206#0" expanded="true" />
+            <element signature="e#137#138#0" expanded="false" />
+            <element signature="e#205#206#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -845,8 +718,8 @@
         <state relative-caret-position="20">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding>
-            <element signature="e#137#138#0" expanded="true" />
-            <element signature="e#206#207#0" expanded="true" />
+            <element signature="e#137#138#0" expanded="false" />
+            <element signature="e#206#207#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -889,7 +762,7 @@
         <state relative-caret-position="340">
           <caret line="17" column="29" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="17" selection-end-column="29" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -899,7 +772,7 @@
         <state relative-caret-position="300">
           <caret line="15" column="5" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="15" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -907,7 +780,361 @@
     <entry file="file://$PROJECT_DIR$/src/design4_装饰者模式/sample_2/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
-          <caret line="14" column="14" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="24" selection-end-column="5" />
+          <caret line="14" column="56" lean-forward="true" selection-start-line="14" selection-start-column="56" selection-end-line="14" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design5_工厂方法模式/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design5_工厂方法模式/sample_1/product/ConcreteProductA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="8" lean-forward="false" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+          <folding>
+            <element signature="e#137#138#0" expanded="false" />
+            <element signature="e#207#208#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design5_工厂方法模式/sample_1/product/ConcreteProductB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="8" lean-forward="false" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+          <folding>
+            <element signature="e#137#138#0" expanded="false" />
+            <element signature="e#207#208#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design5_工厂方法模式/sample_1/product/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="7" lean-forward="false" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design5_工厂方法模式/sample_1/factory/Factory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="11" lean-forward="false" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design5_工厂方法模式/sample_1/factory/ConcreteFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="11" lean-forward="false" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design5_工厂方法模式/sample_1/factory/ConcreteFactoryA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="29" lean-forward="false" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design5_工厂方法模式/sample_1/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design5_工厂方法模式/sample_2/product/MountainBike.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="64" lean-forward="false" selection-start-line="5" selection-start-column="64" selection-end-line="5" selection-end-column="64" />
+          <folding>
+            <element signature="e#134#135#0" expanded="false" />
+            <element signature="e#208#209#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design5_工厂方法模式/sample_2/product/Bike.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design5_工厂方法模式/sample_2/product/GeneralBike.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="e#134#135#0" expanded="false" />
+            <element signature="e#208#209#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design5_工厂方法模式/sample_2/factory/Factory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design5_工厂方法模式/sample_2/factory/BikeFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design6_抽象工厂模式/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design6_抽象工厂模式/sample_1/product/abstractProduct/AbstractProductB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="34" lean-forward="false" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design6_抽象工厂模式/sample_1/product/concreteProduct/B/ConcreteProductB1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="61" lean-forward="false" selection-start-line="8" selection-start-column="61" selection-end-line="8" selection-end-column="61" />
+          <folding>
+            <element signature="e#241#242#0" expanded="false" />
+            <element signature="e#311#312#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design5_工厂方法模式/sample_2/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design6_抽象工厂模式/sample_1/product/concreteProduct/A/ConcreteProductA2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="61" lean-forward="false" selection-start-line="8" selection-start-column="61" selection-end-line="8" selection-end-column="61" />
+          <folding>
+            <element signature="e#240#241#0" expanded="false" />
+            <element signature="e#310#311#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design6_抽象工厂模式/sample_1/product/abstractProduct/AbstractProductA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="15" lean-forward="false" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design6_抽象工厂模式/sample_1/product/concreteProduct/A/ConcreteProductA1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="e#241#242#0" expanded="false" />
+            <element signature="e#316#317#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design6_抽象工厂模式/sample_1/factory/concreteFactory/ConcreteFactory2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#552#553#0" expanded="false" />
+            <element signature="e#598#599#0" expanded="false" />
+            <element signature="e#660#661#0" expanded="false" />
+            <element signature="e#706#707#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design6_抽象工厂模式/sample_1/product/concreteProduct/B/ConcreteProductB2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="61" lean-forward="false" selection-start-line="8" selection-start-column="61" selection-end-line="8" selection-end-column="61" />
+          <folding>
+            <element signature="e#241#242#0" expanded="false" />
+            <element signature="e#311#312#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design6_抽象工厂模式/sample_1/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="11" column="47" lean-forward="false" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design6_抽象工厂模式/sample_1/factory/concreteFactory/ConcreteFactory1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" column="44" lean-forward="true" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#553#554#0" expanded="false" />
+            <element signature="e#599#600#0" expanded="false" />
+            <element signature="e#661#662#0" expanded="false" />
+            <element signature="e#707#708#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design6_抽象工厂模式/sample_1/factory/abstractFactory/AbstractFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="37" lean-forward="false" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design6_抽象工厂模式/sample_2/product/abstractProduct/HandleBar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="22" lean-forward="false" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design6_抽象工厂模式/sample_2/product/concreteProduct/handleBar/MountainBikeHandleBar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="50" lean-forward="false" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
+          <folding>
+            <element signature="e#250#251#0" expanded="true" />
+            <element signature="e#307#308#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design6_抽象工厂模式/sample_2/factory/abstractFactory/BikeFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design6_抽象工厂模式/sample_2/factory/concreteFactory/GeneralBikeFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#529#530#0" expanded="true" />
+            <element signature="e#573#574#0" expanded="true" />
+            <element signature="e#629#630#0" expanded="true" />
+            <element signature="e#678#679#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design6_抽象工厂模式/sample_2/factory/concreteFactory/MountainBikeFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#530#531#0" expanded="true" />
+            <element signature="e#575#576#0" expanded="true" />
+            <element signature="e#631#632#0" expanded="true" />
+            <element signature="e#681#682#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design6_抽象工厂模式/sample_2/product/abstractProduct/Tyre.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design6_抽象工厂模式/sample_2/product/concreteProduct/handleBar/GeneralBikeHandleBar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="50" lean-forward="false" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
+          <folding>
+            <element signature="e#252#253#0" expanded="true" />
+            <element signature="e#309#310#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design6_抽象工厂模式/sample_2/product/concreteProduct/tyre/GeneralBikeTyre.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <element signature="e#231#232#0" expanded="true" />
+            <element signature="e#288#289#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design6_抽象工厂模式/sample_2/product/concreteProduct/tyre/MountainBikeTyre.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="10" selection-end-column="1" />
+          <folding>
+            <element signature="e#231#232#0" expanded="true" />
+            <element signature="e#288#289#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design6_抽象工厂模式/sample_2/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="19" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
