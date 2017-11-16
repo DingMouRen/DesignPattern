@@ -2,41 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3ea1d74-1670-4c15-ae99-40dd9ce7efc7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design5_工厂方法模式/sample_1/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design5_工厂方法模式/sample_1/factory/ConcreteFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design5_工厂方法模式/sample_1/factory/Factory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design5_工厂方法模式/sample_1/product/ConcreteProductA.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design5_工厂方法模式/sample_1/product/ConcreteProductB.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design5_工厂方法模式/sample_1/product/Product.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design5_工厂方法模式/sample_2/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design5_工厂方法模式/sample_2/factory/BikeFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design5_工厂方法模式/sample_2/factory/Factory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design5_工厂方法模式/sample_2/product/Bike.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design5_工厂方法模式/sample_2/product/GeneralBike.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design5_工厂方法模式/sample_2/product/MountainBike.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design6_抽象工厂模式/sample_1/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design6_抽象工厂模式/sample_1/factory/abstractFactory/AbstractFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design6_抽象工厂模式/sample_1/factory/concreteFactory/ConcreteFactory1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design6_抽象工厂模式/sample_1/factory/concreteFactory/ConcreteFactory2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design6_抽象工厂模式/sample_1/product/abstractProduct/AbstractProductA.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design6_抽象工厂模式/sample_1/product/abstractProduct/AbstractProductB.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design6_抽象工厂模式/sample_1/product/concreteProduct/A/ConcreteProductA1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design6_抽象工厂模式/sample_1/product/concreteProduct/A/ConcreteProductA2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design6_抽象工厂模式/sample_1/product/concreteProduct/B/ConcreteProductB1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design6_抽象工厂模式/sample_1/product/concreteProduct/B/ConcreteProductB2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design6_抽象工厂模式/sample_2/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design6_抽象工厂模式/sample_2/factory/abstractFactory/BikeFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design6_抽象工厂模式/sample_2/factory/concreteFactory/GeneralBikeFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design6_抽象工厂模式/sample_2/factory/concreteFactory/MountainBikeFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design6_抽象工厂模式/sample_2/product/abstractProduct/HandleBar.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design6_抽象工厂模式/sample_2/product/abstractProduct/Tyre.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design6_抽象工厂模式/sample_2/product/concreteProduct/handleBar/GeneralBikeHandleBar.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design6_抽象工厂模式/sample_2/product/concreteProduct/handleBar/MountainBikeHandleBar.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design6_抽象工厂模式/sample_2/product/concreteProduct/tyre/GeneralBikeTyre.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design6_抽象工厂模式/sample_2/product/concreteProduct/tyre/MountainBikeTyre.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/DesignPattern/design4_装饰者模式/sample_2/Test.class" afterPath="$PROJECT_DIR$/out/production/DesignPattern/design4_装饰者模式/sample_2/Test.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/DesignPattern/design4_装饰者模式/sample_2/decorator/CheapCloth.class" afterPath="$PROJECT_DIR$/out/production/DesignPattern/design4_装饰者模式/sample_2/decorator/CheapCloth.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/DesignPattern/design4_装饰者模式/sample_2/decorator/ExpensiveCloth.class" afterPath="$PROJECT_DIR$/out/production/DesignPattern/design4_装饰者模式/sample_2/decorator/ExpensiveCloth.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design7_单例模式/Singleton1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design7_单例模式/Singleton2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design7_单例模式/Singleton3.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -49,18 +17,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="BikeFactory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/design6_抽象工厂模式/sample_2/factory/abstractFactory/BikeFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="GeneralBikeFactory.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/design6_抽象工厂模式/sample_2/factory/concreteFactory/GeneralBikeFactory.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -93,7 +49,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/design6_抽象工厂模式/sample_2/Test.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="380">
@@ -105,11 +61,34 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HandleBar.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/design6_抽象工厂模式/sample_2/product/abstractProduct/HandleBar.java">
+      <file leaf-file-name="Singleton1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/design7_单例模式/Singleton1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="4" column="22" lean-forward="false" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+            <state relative-caret-position="20">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="11" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Singleton2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/design7_单例模式/Singleton2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="20">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding>
+                <element signature="e#197#198#0" expanded="true" />
+                <element signature="e#228#229#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Singleton3.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/design7_单例模式/Singleton3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="20">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -151,19 +130,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MountainBikeHandleBar.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/design6_抽象工厂模式/sample_2/product/concreteProduct/handleBar/MountainBikeHandleBar.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="8" column="50" lean-forward="false" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
-              <folding>
-                <element signature="e#250#251#0" expanded="true" />
-                <element signature="e#307#308#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="MountainBikeTyre.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/design6_抽象工厂模式/sample_2/product/concreteProduct/tyre/MountainBikeTyre.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -199,9 +165,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/design4_装饰者模式/Test.java" />
-        <option value="$PROJECT_DIR$/src/design4_装饰者模式/decorator/ConcreteDecoratorB.java" />
-        <option value="$PROJECT_DIR$/src/design4_装饰者模式/decorator/ConcreteDecoratorA.java" />
         <option value="$PROJECT_DIR$/src/design4_装饰者模式/sample_1/Test.java" />
         <option value="$PROJECT_DIR$/src/design4_装饰者模式/sample_2/component/Person.java" />
         <option value="$PROJECT_DIR$/src/design4_装饰者模式/sample_2/decorator/PersonCloth.java" />
@@ -250,6 +213,9 @@
         <option value="$PROJECT_DIR$/src/design6_抽象工厂模式/sample_2/factory/concreteFactory/GeneralBikeFactory.java" />
         <option value="$PROJECT_DIR$/src/design6_抽象工厂模式/sample_2/factory/concreteFactory/MountainBikeFactory.java" />
         <option value="$PROJECT_DIR$/src/design6_抽象工厂模式/sample_2/Test.java" />
+        <option value="$PROJECT_DIR$/src/design7_单例模式/Singleton1.java" />
+        <option value="$PROJECT_DIR$/src/design7_单例模式/Singleton2.java" />
+        <option value="$PROJECT_DIR$/src/design7_单例模式/Singleton3.java" />
       </list>
     </option>
   </component>
@@ -260,8 +226,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="300" />
-    <option name="y" value="65" />
+    <option name="x" value="365" />
+    <option name="y" value="289" />
     <option name="width" value="1304" />
     <option name="height" value="914" />
   </component>
@@ -300,13 +266,7 @@
               <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="design5_工厂方法模式" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="design6_抽象工厂模式" type="462c0819:PsiDirectoryNode" />
+              <item name="design7_单例模式" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -547,15 +507,16 @@
       <option name="presentableId" value="Default" />
       <updated>1510710436143</updated>
       <workItem from="1510710438995" duration="13462000" />
-      <workItem from="1510743739908" duration="20350000" />
+      <workItem from="1510743739908" duration="23089000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33812000" />
+    <option name="totallyTimeSpent" value="36551000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="300" y="65" width="1304" height="914" extended-state="0" />
+    <frame x="365" y="289" width="1304" height="914" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -570,7 +531,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26708075" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1871118" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -626,34 +587,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/design3_观察者模式/自己实现/observer/ConcreteObserver_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="26" column="54" lean-forward="true" selection-start-line="26" selection-start-column="54" selection-end-line="26" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/design4_装饰者模式/sample_1/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/design4_装饰者模式/sample_1/decorator/ConcreteDecoratorB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="19" />
-          <folding>
-            <element signature="e#198#199#0" expanded="true" />
-            <element signature="e#230#231#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/design4_装饰者模式/sample_1/decorator/ConcreteDecoratorA.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
@@ -1138,6 +1071,33 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design7_单例模式/Singleton1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="11" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design7_单例模式/Singleton2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="e#197#198#0" expanded="true" />
+            <element signature="e#228#229#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design7_单例模式/Singleton3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
