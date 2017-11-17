@@ -2,15 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3ea1d74-1670-4c15-ae99-40dd9ce7efc7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design9_适配器模式/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design9_适配器模式/对象适配器模式/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design9_适配器模式/对象适配器模式/adaptee/Volt220.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design9_适配器模式/对象适配器模式/adapter/VoltAdapter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design9_适配器模式/对象适配器模式/target/Volt5.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design9_适配器模式/类适配器模式/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design9_适配器模式/类适配器模式/adaptee/Volt220.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design9_适配器模式/类适配器模式/adapter/Volt220To5Adapter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design9_适配器模式/类适配器模式/target/Volt5.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design10_外观模式/MobilePhone.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design10_外观模式/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design10_外观模式/concreteSystem/PhoneImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design10_外观模式/concreteSystem/SonyCamera.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design10_外观模式/system/Camera.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design10_外观模式/system/Phone.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/design9_适配器模式/Test.java" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -23,124 +21,82 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/design8_命令模式/sample_2/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/design9_适配器模式/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/design9_适配器模式/类适配器模式/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="7" column="24" lean-forward="false" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Volt5.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/design9_适配器模式/类适配器模式/target/Volt5.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Volt220.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/design9_适配器模式/类适配器模式/adaptee/Volt220.java">
+      <file leaf-file-name="Phone.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/design10_外观模式/system/Phone.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="20">
               <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-              <folding>
-                <element signature="e#103#104#0" expanded="true" />
-                <element signature="e#129#130#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Volt220To5Adapter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/design9_适配器模式/类适配器模式/adapter/Volt220To5Adapter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#254#255#0" expanded="true" />
-                <element signature="e#278#279#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/design9_适配器模式/对象适配器模式/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="8" column="24" lean-forward="false" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Volt5.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/design9_适配器模式/对象适配器模式/target/Volt5.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Volt220.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/design9_适配器模式/对象适配器模式/adaptee/Volt220.java">
+      <file leaf-file-name="PhoneImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/design10_外观模式/concreteSystem/PhoneImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state relative-caret-position="200">
+              <caret line="10" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding>
-                <element signature="e#104#105#0" expanded="true" />
-                <element signature="e#130#131#0" expanded="true" />
+                <element signature="e#167#168#0" expanded="true" />
+                <element signature="e#215#216#0" expanded="true" />
+                <element signature="e#257#258#0" expanded="true" />
+                <element signature="e#304#305#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="VoltAdapter.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/design9_适配器模式/对象适配器模式/adapter/VoltAdapter.java">
+      <file leaf-file-name="SonyCamera.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/design10_外观模式/concreteSystem/SonyCamera.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="22" selection-end-column="1" />
+            <state relative-caret-position="347">
+              <caret line="18" column="34" lean-forward="false" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+              <folding>
+                <element signature="e#175#176#0" expanded="true" />
+                <element signature="e#219#220#0" expanded="true" />
+                <element signature="e#264#265#0" expanded="true" />
+                <element signature="e#310#311#0" expanded="true" />
+                <element signature="e#351#352#0" expanded="true" />
+                <element signature="e#395#396#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MobilePhone.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/design10_外观模式/MobilePhone.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#271#272#0" expanded="true" />
-                <element signature="e#309#310#0" expanded="true" />
-                <element signature="e#336#337#0" expanded="true" />
-                <element signature="e#376#377#0" expanded="true" />
-                <element signature="e#416#417#0" expanded="true" />
-                <element signature="e#440#441#0" expanded="true" />
+                <element signature="e#357#358#0" expanded="true" />
+                <element signature="e#385#386#0" expanded="true" />
+                <element signature="e#422#423#0" expanded="true" />
+                <element signature="e#452#453#0" expanded="true" />
+                <element signature="e#593#594#0" expanded="true" />
+                <element signature="e#623#624#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/design10_外观模式/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="8" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Camera.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/design10_外观模式/system/Camera.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -167,12 +123,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/design6_抽象工厂模式/sample_1/product/concreteProduct/A/ConcreteProductA1.java" />
-        <option value="$PROJECT_DIR$/src/design6_抽象工厂模式/sample_1/product/concreteProduct/A/ConcreteProductA2.java" />
-        <option value="$PROJECT_DIR$/src/design6_抽象工厂模式/sample_1/product/concreteProduct/B/ConcreteProductB1.java" />
-        <option value="$PROJECT_DIR$/src/design6_抽象工厂模式/sample_1/product/concreteProduct/B/ConcreteProductB2.java" />
-        <option value="$PROJECT_DIR$/src/design6_抽象工厂模式/sample_1/factory/abstractFactory/AbstractFactory.java" />
-        <option value="$PROJECT_DIR$/src/design6_抽象工厂模式/sample_1/factory/concreteFactory/ConcreteFactory1.java" />
         <option value="$PROJECT_DIR$/src/design6_抽象工厂模式/sample_1/factory/concreteFactory/ConcreteFactory2.java" />
         <option value="$PROJECT_DIR$/src/design6_抽象工厂模式/sample_1/Test.java" />
         <option value="$PROJECT_DIR$/src/design6_抽象工厂模式/sample_2/factory/BikeFactory.java" />
@@ -218,6 +168,12 @@
         <option value="$PROJECT_DIR$/src/design9_适配器模式/对象适配器模式/adaptee/Volt220.java" />
         <option value="$PROJECT_DIR$/src/design9_适配器模式/对象适配器模式/adapter/VoltAdapter.java" />
         <option value="$PROJECT_DIR$/src/design9_适配器模式/对象适配器模式/Test.java" />
+        <option value="$PROJECT_DIR$/src/design10_外观模式/system/Phone.java" />
+        <option value="$PROJECT_DIR$/src/design10_外观模式/concreteSystem/PhoneImpl.java" />
+        <option value="$PROJECT_DIR$/src/design10_外观模式/system/Camera.java" />
+        <option value="$PROJECT_DIR$/src/design10_外观模式/concreteSystem/SonyCamera.java" />
+        <option value="$PROJECT_DIR$/src/design10_外观模式/MobilePhone.java" />
+        <option value="$PROJECT_DIR$/src/design10_外观模式/Test.java" />
       </list>
     </option>
   </component>
@@ -227,9 +183,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="227" />
-    <option name="y" value="86" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="535" />
+    <option name="y" value="375" />
     <option name="width" value="1304" />
     <option name="height" value="914" />
   </component>
@@ -274,63 +230,21 @@
               <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="design9_适配器模式" type="462c0819:PsiDirectoryNode" />
-              <item name="对象适配器模式" type="462c0819:PsiDirectoryNode" />
+              <item name="design10_外观模式" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="design9_适配器模式" type="462c0819:PsiDirectoryNode" />
-              <item name="对象适配器模式" type="462c0819:PsiDirectoryNode" />
-              <item name="adaptee" type="462c0819:PsiDirectoryNode" />
+              <item name="design10_外观模式" type="462c0819:PsiDirectoryNode" />
+              <item name="concreteSystem" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="design9_适配器模式" type="462c0819:PsiDirectoryNode" />
-              <item name="对象适配器模式" type="462c0819:PsiDirectoryNode" />
-              <item name="adapter" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="design9_适配器模式" type="462c0819:PsiDirectoryNode" />
-              <item name="对象适配器模式" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="design9_适配器模式" type="462c0819:PsiDirectoryNode" />
-              <item name="类适配器模式" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="design9_适配器模式" type="462c0819:PsiDirectoryNode" />
-              <item name="类适配器模式" type="462c0819:PsiDirectoryNode" />
-              <item name="adaptee" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="design9_适配器模式" type="462c0819:PsiDirectoryNode" />
-              <item name="类适配器模式" type="462c0819:PsiDirectoryNode" />
-              <item name="adapter" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="design9_适配器模式" type="462c0819:PsiDirectoryNode" />
-              <item name="类适配器模式" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="design10_外观模式" type="462c0819:PsiDirectoryNode" />
+              <item name="system" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -571,15 +485,15 @@
       <option name="presentableId" value="Default" />
       <updated>1510710436143</updated>
       <workItem from="1510710438995" duration="13462000" />
-      <workItem from="1510743739908" duration="31148000" />
+      <workItem from="1510743739908" duration="34588000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44610000" />
+    <option name="totallyTimeSpent" value="48050000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="227" y="86" width="1304" height="914" extended-state="0" />
+    <frame x="535" y="375" width="1304" height="914" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -651,59 +565,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/design5_工厂方法模式/sample_2/factory/Factory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/design5_工厂方法模式/sample_2/factory/BikeFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="67">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/design6_抽象工厂模式/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/design6_抽象工厂模式/sample_1/product/abstractProduct/AbstractProductB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="34" lean-forward="false" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/design6_抽象工厂模式/sample_1/product/concreteProduct/B/ConcreteProductB1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="61" lean-forward="false" selection-start-line="8" selection-start-column="61" selection-end-line="8" selection-end-column="61" />
-          <folding>
-            <element signature="e#241#242#0" expanded="false" />
-            <element signature="e#311#312#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/design5_工厂方法模式/sample_2/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/design6_抽象工厂模式/sample_1/product/concreteProduct/A/ConcreteProductA2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
@@ -1145,8 +1006,8 @@
         <state relative-caret-position="20">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding>
-            <element signature="e#103#104#0" expanded="true" />
-            <element signature="e#129#130#0" expanded="true" />
+            <element signature="e#103#104#0" expanded="false" />
+            <element signature="e#129#130#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1156,9 +1017,9 @@
         <state relative-caret-position="80">
           <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#254#255#0" expanded="true" />
-            <element signature="e#278#279#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#254#255#0" expanded="false" />
+            <element signature="e#278#279#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1168,7 +1029,7 @@
         <state relative-caret-position="160">
           <caret line="8" column="24" lean-forward="false" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1186,8 +1047,8 @@
         <state relative-caret-position="20">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding>
-            <element signature="e#104#105#0" expanded="true" />
-            <element signature="e#130#131#0" expanded="true" />
+            <element signature="e#104#105#0" expanded="false" />
+            <element signature="e#130#131#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1205,6 +1066,74 @@
             <element signature="e#416#417#0" expanded="true" />
             <element signature="e#440#441#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design10_外观模式/system/Camera.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design10_外观模式/concreteSystem/SonyCamera.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="18" column="34" lean-forward="false" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+          <folding>
+            <element signature="e#175#176#0" expanded="true" />
+            <element signature="e#219#220#0" expanded="true" />
+            <element signature="e#264#265#0" expanded="true" />
+            <element signature="e#310#311#0" expanded="true" />
+            <element signature="e#351#352#0" expanded="true" />
+            <element signature="e#395#396#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design10_外观模式/system/Phone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design10_外观模式/concreteSystem/PhoneImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="e#167#168#0" expanded="true" />
+            <element signature="e#215#216#0" expanded="true" />
+            <element signature="e#257#258#0" expanded="true" />
+            <element signature="e#304#305#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design10_外观模式/MobilePhone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#357#358#0" expanded="true" />
+            <element signature="e#385#386#0" expanded="true" />
+            <element signature="e#422#423#0" expanded="true" />
+            <element signature="e#452#453#0" expanded="true" />
+            <element signature="e#593#594#0" expanded="true" />
+            <element signature="e#623#624#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design10_外观模式/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="8" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
