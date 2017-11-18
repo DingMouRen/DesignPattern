@@ -21,7 +21,7 @@ public abstract class Dir {
     //清空文件夹下所有的元素
     public abstract void clear();
     //输出文件夹目录结构
-    public abstract void showStructure();
+    public abstract void showStructure(int level);
     //获取文件夹下所有的文件或者子文件夹
     public abstract List<Dir> getDirs();
     //获取文件或文件夹名称
