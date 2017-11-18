@@ -2,20 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3ea1d74-1670-4c15-ae99-40dd9ce7efc7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design16_桥接模式/sample_1/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design16_桥接模式/sample_1/abstraction/Abstraction.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design16_桥接模式/sample_1/abstractionRefined/RefineAbstraction.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design16_桥接模式/sample_1/concreteImplementors/ConcreteImplementorA.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design16_桥接模式/sample_1/concreteImplementors/ConcreteImplmentorB.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design16_桥接模式/sample_1/implementor/Implementor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design16_桥接模式/sample_2/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design16_桥接模式/sample_2/abstraction/Coffee.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design16_桥接模式/sample_2/abstractionRefined/LargeCoffee.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design16_桥接模式/sample_2/abstractionRefined/SmallCoffee.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design16_桥接模式/sample_2/concreteImplementors/Odinary.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design16_桥接模式/sample_2/concreteImplementors/Sugar.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design16_桥接模式/sample_2/implementor/CoffeeAdditives.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/DesignPattern/design15_代理模式/sample_2/Test.class" afterPath="$PROJECT_DIR$/out/production/DesignPattern/design15_代理模式/sample_2/Test.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design17_责任链模式/sample_1/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design17_责任链模式/sample_1/abstractHandler/AbstractHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design17_责任链模式/sample_1/abstractRequest/AbstractRequest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design17_责任链模式/sample_1/concreteHandler/Handler1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design17_责任链模式/sample_1/concreteHandler/Handler2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design17_责任链模式/sample_1/concreteHandler/Handler3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design17_责任链模式/sample_1/concreteRequest/Request1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design17_责任链模式/sample_1/concreteRequest/Request2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design17_责任链模式/sample_1/concreteRequest/Request3.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/DesignPattern/design16_桥接模式/sample_2/Test.class" afterPath="$PROJECT_DIR$/out/production/DesignPattern/design16_桥接模式/sample_2/Test.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/DesignPattern/design16_桥接模式/sample_2/abstractionRefined/SmallCoffee.class" afterPath="$PROJECT_DIR$/out/production/DesignPattern/design16_桥接模式/sample_2/abstractionRefined/SmallCoffee.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -28,130 +25,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Implementor.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/design16_桥接模式/sample_1/implementor/Implementor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="1" column="9" lean-forward="false" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Coffee.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/design16_桥接模式/sample_2/abstraction/Coffee.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-              <folding>
-                <element signature="e#275#276#0" expanded="true" />
-                <element signature="e#329#330#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LargeCoffee.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/design16_桥接模式/sample_2/abstractionRefined/LargeCoffee.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#266#267#0" expanded="true" />
-                <element signature="e#304#305#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Sugar.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/design16_桥接模式/sample_2/concreteImplementors/Sugar.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding>
-                <element signature="e#211#212#0" expanded="true" />
-                <element signature="e#239#240#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Odinary.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/design16_桥接模式/sample_2/concreteImplementors/Odinary.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-              <folding>
-                <element signature="e#223#224#0" expanded="true" />
-                <element signature="e#251#252#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SmallCoffee.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/design16_桥接模式/sample_2/abstractionRefined/SmallCoffee.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="13" column="56" lean-forward="false" selection-start-line="13" selection-start-column="56" selection-end-line="13" selection-end-column="56" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#267#268#0" expanded="true" />
-                <element signature="e#305#306#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CoffeeAdditives.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/design16_桥接模式/sample_2/implementor/CoffeeAdditives.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Abstraction.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/design16_桥接模式/sample_1/abstraction/Abstraction.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="5" column="22" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-              <folding>
-                <element signature="e#284#285#0" expanded="true" />
-                <element signature="e#330#331#0" expanded="true" />
-                <element signature="e#389#390#0" expanded="true" />
-                <element signature="e#432#433#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RefineAbstraction.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/design16_桥接模式/sample_1/abstractionRefined/RefineAbstraction.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#279#280#0" expanded="true" />
-                <element signature="e#313#314#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Test.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/design16_桥接模式/sample_2/Test.java">
+        <entry file="file://$PROJECT_DIR$/src/design17_责任链模式/sample_1/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="47">
-              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="24" selection-end-column="5" />
+            <state relative-caret-position="500">
+              <caret line="28" column="39" lean-forward="true" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AbstractHandler.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/design17_责任链模式/sample_1/abstractHandler/AbstractHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="19" column="41" lean-forward="false" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -178,15 +69,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/design10_外观模式/MobilePhone.java" />
-        <option value="$PROJECT_DIR$/src/design10_外观模式/Test.java" />
-        <option value="$PROJECT_DIR$/src/design11_模板方法模式/concreteImpl/CoderComputer.java" />
-        <option value="$PROJECT_DIR$/src/design11_模板方法模式/concreteImpl/MilitaryComputer.java" />
-        <option value="$PROJECT_DIR$/src/design11_模板方法模式/Test.java" />
-        <option value="$PROJECT_DIR$/src/design11_模板方法模式/AbstractComputer.java" />
-        <option value="$PROJECT_DIR$/src/design12_迭代器模式/iterator/Iterator.java" />
-        <option value="$PROJECT_DIR$/src/design12_迭代器模式/iterator/ConcreteIterator.java" />
-        <option value="$PROJECT_DIR$/src/design12_迭代器模式/aggregate/Aggregate.java" />
         <option value="$PROJECT_DIR$/src/design12_迭代器模式/aggregate/ConcreteAggregate.java" />
         <option value="$PROJECT_DIR$/src/design12_迭代器模式/Test.java" />
         <option value="$PROJECT_DIR$/src/design13_组合模式/leaf.java" />
@@ -229,6 +111,15 @@
         <option value="$PROJECT_DIR$/src/design16_桥接模式/sample_2/concreteImplementors/Odinary.java" />
         <option value="$PROJECT_DIR$/src/design16_桥接模式/sample_2/abstractionRefined/SmallCoffee.java" />
         <option value="$PROJECT_DIR$/src/design16_桥接模式/sample_2/Test.java" />
+        <option value="$PROJECT_DIR$/src/design17_责任链模式/sample_1/abstractRequest/AbstractRequest.java" />
+        <option value="$PROJECT_DIR$/src/design17_责任链模式/sample_1/concreteRequest/Request2.java" />
+        <option value="$PROJECT_DIR$/src/design17_责任链模式/sample_1/concreteRequest/Request3.java" />
+        <option value="$PROJECT_DIR$/src/design17_责任链模式/sample_1/concreteHandler/Handler1.java" />
+        <option value="$PROJECT_DIR$/src/design17_责任链模式/sample_1/concreteHandler/Handler2.java" />
+        <option value="$PROJECT_DIR$/src/design17_责任链模式/sample_1/concreteHandler/Handler3.java" />
+        <option value="$PROJECT_DIR$/src/design17_责任链模式/sample_1/concreteRequest/Request1.java" />
+        <option value="$PROJECT_DIR$/src/design17_责任链模式/sample_1/abstractHandler/AbstractHandler.java" />
+        <option value="$PROJECT_DIR$/src/design17_责任链模式/sample_1/Test.java" />
       </list>
     </option>
   </component>
@@ -239,8 +130,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1084" />
-    <option name="y" value="59" />
+    <option name="x" value="902" />
+    <option name="y" value="68" />
     <option name="width" value="1304" />
     <option name="height" value="914" />
   </component>
@@ -279,69 +170,46 @@
               <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="design16_桥接模式" type="462c0819:PsiDirectoryNode" />
+              <item name="design17_责任链模式" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="design16_桥接模式" type="462c0819:PsiDirectoryNode" />
+              <item name="design17_责任链模式" type="462c0819:PsiDirectoryNode" />
               <item name="sample_1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="design16_桥接模式" type="462c0819:PsiDirectoryNode" />
+              <item name="design17_责任链模式" type="462c0819:PsiDirectoryNode" />
               <item name="sample_1" type="462c0819:PsiDirectoryNode" />
-              <item name="abstraction" type="462c0819:PsiDirectoryNode" />
+              <item name="abstractHandler" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="design16_桥接模式" type="462c0819:PsiDirectoryNode" />
+              <item name="design17_责任链模式" type="462c0819:PsiDirectoryNode" />
               <item name="sample_1" type="462c0819:PsiDirectoryNode" />
-              <item name="implementor" type="462c0819:PsiDirectoryNode" />
+              <item name="abstractRequest" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="design16_桥接模式" type="462c0819:PsiDirectoryNode" />
-              <item name="sample_2" type="462c0819:PsiDirectoryNode" />
+              <item name="design17_责任链模式" type="462c0819:PsiDirectoryNode" />
+              <item name="sample_1" type="462c0819:PsiDirectoryNode" />
+              <item name="concreteHandler" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="design16_桥接模式" type="462c0819:PsiDirectoryNode" />
-              <item name="sample_2" type="462c0819:PsiDirectoryNode" />
-              <item name="abstraction" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="design16_桥接模式" type="462c0819:PsiDirectoryNode" />
-              <item name="sample_2" type="462c0819:PsiDirectoryNode" />
-              <item name="abstractionRefined" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="design16_桥接模式" type="462c0819:PsiDirectoryNode" />
-              <item name="sample_2" type="462c0819:PsiDirectoryNode" />
-              <item name="concreteImplementors" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="design16_桥接模式" type="462c0819:PsiDirectoryNode" />
-              <item name="sample_2" type="462c0819:PsiDirectoryNode" />
-              <item name="implementor" type="462c0819:PsiDirectoryNode" />
+              <item name="design17_责任链模式" type="462c0819:PsiDirectoryNode" />
+              <item name="sample_1" type="462c0819:PsiDirectoryNode" />
+              <item name="concreteRequest" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -357,6 +225,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="design17_责任链模式.sample_1.concreteHandler" />
       <recent name="design3_观察者模式.javaApi实现.observable" />
       <recent name="design3_观察者模式.javaApi实现" />
       <recent name="design2_构建者模式" />
@@ -377,26 +246,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test (5)">
-    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="design13_组合模式.sample_2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="design13_组合模式.sample_2.Test" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="DesignPattern" />
-      <envs />
-    </configuration>
+  <component name="RunManager" selected="Application.Test">
     <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -476,11 +326,11 @@
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="design13_组合模式.sample_1.*" />
+          <option name="PATTERN" value="design17_责任链模式.sample_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="design13_组合模式.sample_1.Test" />
+      <option name="MAIN_CLASS_NAME" value="design17_责任链模式.sample_1.Test" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -574,19 +424,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Test (1)" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Test (2)" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Test (3)" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Test (4)" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Test (5)" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Test (2)" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Test (3)" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Test (4)" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Test (5)" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Test" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Test (5)" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Test (4)" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Test (3)" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Test (2)" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Test (1)" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Test" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Test (5)" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Test (4)" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Test (3)" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Test (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -601,15 +451,15 @@
       <option name="presentableId" value="Default" />
       <updated>1510710436143</updated>
       <workItem from="1510710438995" duration="13462000" />
-      <workItem from="1510743739908" duration="61551000" />
+      <workItem from="1510743739908" duration="64572000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75013000" />
+    <option name="totallyTimeSpent" value="78034000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1084" y="59" width="1304" height="914" extended-state="0" />
+    <frame x="902" y="68" width="1304" height="914" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -620,7 +470,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2777086" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2777086" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -699,113 +549,11 @@
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="4" />
+      <option name="time" value="5" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/design10_外观模式/concreteSystem/PhoneImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding>
-            <element signature="e#167#168#0" expanded="false" />
-            <element signature="e#215#216#0" expanded="false" />
-            <element signature="e#257#258#0" expanded="false" />
-            <element signature="e#304#305#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/design10_外观模式/MobilePhone.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#357#358#0" expanded="false" />
-            <element signature="e#385#386#0" expanded="false" />
-            <element signature="e#422#423#0" expanded="false" />
-            <element signature="e#452#453#0" expanded="false" />
-            <element signature="e#593#594#0" expanded="false" />
-            <element signature="e#623#624#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/design10_外观模式/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="8" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/design11_模板方法模式/concreteImpl/MilitaryComputer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="19" column="61" lean-forward="false" selection-start-line="19" selection-start-column="61" selection-end-line="19" selection-end-column="61" />
-          <folding>
-            <element signature="e#200#201#0" expanded="false" />
-            <element signature="e#269#270#0" expanded="false" />
-            <element signature="e#430#431#0" expanded="false" />
-            <element signature="e#501#502#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DesignPattern.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/design11_模板方法模式/AbstractComputer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding>
-            <element signature="e#346#347#0" expanded="false" />
-            <element signature="e#388#389#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/design11_模板方法模式/concreteImpl/CoderComputer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding>
-            <element signature="e#200#201#0" expanded="false" />
-            <element signature="e#269#270#0" expanded="false" />
-            <element signature="e#314#315#0" expanded="false" />
-            <element signature="e#388#389#0" expanded="false" />
-            <element signature="e#432#433#0" expanded="false" />
-            <element signature="e#506#507#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/design11_模板方法模式/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="12" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/design12_迭代器模式/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="20">
@@ -1085,14 +833,14 @@
         <state relative-caret-position="447">
           <caret line="24" column="5" lean-forward="false" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
           <folding>
-            <element signature="e#183#184#0" expanded="true" />
-            <element signature="e#254#255#0" expanded="true" />
-            <element signature="e#296#297#0" expanded="true" />
-            <element signature="e#365#366#0" expanded="true" />
-            <element signature="e#407#408#0" expanded="true" />
-            <element signature="e#476#477#0" expanded="true" />
-            <element signature="e#518#519#0" expanded="true" />
-            <element signature="e#587#588#0" expanded="true" />
+            <element signature="e#183#184#0" expanded="false" />
+            <element signature="e#254#255#0" expanded="false" />
+            <element signature="e#296#297#0" expanded="false" />
+            <element signature="e#365#366#0" expanded="false" />
+            <element signature="e#407#408#0" expanded="false" />
+            <element signature="e#476#477#0" expanded="false" />
+            <element signature="e#518#519#0" expanded="false" />
+            <element signature="e#587#588#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1110,14 +858,14 @@
         <state relative-caret-position="47">
           <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="25" selection-end-column="1" />
           <folding>
-            <element signature="e#184#185#0" expanded="true" />
-            <element signature="e#255#256#0" expanded="true" />
-            <element signature="e#297#298#0" expanded="true" />
-            <element signature="e#366#367#0" expanded="true" />
-            <element signature="e#408#409#0" expanded="true" />
-            <element signature="e#477#478#0" expanded="true" />
-            <element signature="e#519#520#0" expanded="true" />
-            <element signature="e#588#589#0" expanded="true" />
+            <element signature="e#184#185#0" expanded="false" />
+            <element signature="e#255#256#0" expanded="false" />
+            <element signature="e#297#298#0" expanded="false" />
+            <element signature="e#366#367#0" expanded="false" />
+            <element signature="e#408#409#0" expanded="false" />
+            <element signature="e#477#478#0" expanded="false" />
+            <element signature="e#519#520#0" expanded="false" />
+            <element signature="e#588#589#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1158,7 +906,7 @@
         <state relative-caret-position="200">
           <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1176,8 +924,8 @@
         <state relative-caret-position="160">
           <caret line="8" column="62" lean-forward="false" selection-start-line="8" selection-start-column="62" selection-end-line="8" selection-end-column="62" />
           <folding>
-            <element signature="e#228#229#0" expanded="true" />
-            <element signature="e#300#301#0" expanded="true" />
+            <element signature="e#228#229#0" expanded="false" />
+            <element signature="e#300#301#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1187,8 +935,8 @@
         <state relative-caret-position="180">
           <caret line="9" column="5" lean-forward="false" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
           <folding>
-            <element signature="e#226#227#0" expanded="true" />
-            <element signature="e#297#298#0" expanded="true" />
+            <element signature="e#226#227#0" expanded="false" />
+            <element signature="e#297#298#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1198,9 +946,9 @@
         <state relative-caret-position="240">
           <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#279#280#0" expanded="true" />
-            <element signature="e#313#314#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#279#280#0" expanded="false" />
+            <element signature="e#313#314#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1295,6 +1043,110 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="47">
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="24" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design17_责任链模式/sample_1/abstractRequest/AbstractRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="29" lean-forward="false" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+          <folding>
+            <element signature="e#167#168#0" expanded="true" />
+            <element signature="e#197#198#0" expanded="true" />
+            <element signature="e#246#247#0" expanded="true" />
+            <element signature="e#272#273#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design17_责任链模式/sample_1/concreteHandler/Handler1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="39" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#283#284#0" expanded="true" />
+            <element signature="e#307#308#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design17_责任链模式/sample_1/concreteHandler/Handler2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#283#284#0" expanded="true" />
+            <element signature="e#307#308#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design17_责任链模式/sample_1/concreteRequest/Request2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="7" lean-forward="false" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+          <folding>
+            <element signature="e#202#203#0" expanded="true" />
+            <element signature="e#228#229#0" expanded="true" />
+            <element signature="e#278#279#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design17_责任链模式/sample_1/concreteRequest/Request3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="11" lean-forward="false" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+          <folding>
+            <element signature="e#202#203#0" expanded="true" />
+            <element signature="e#228#229#0" expanded="true" />
+            <element signature="e#278#279#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design17_责任链模式/sample_1/concreteRequest/Request1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding>
+            <element signature="e#202#203#0" expanded="true" />
+            <element signature="e#228#229#0" expanded="true" />
+            <element signature="e#278#279#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design17_责任链模式/sample_1/concreteHandler/Handler3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="9" column="16" lean-forward="false" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design17_责任链模式/sample_1/abstractHandler/AbstractHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="19" column="41" lean-forward="false" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design17_责任链模式/sample_1/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="28" column="39" lean-forward="true" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
