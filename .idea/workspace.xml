@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1aaa24f6-78e1-4045-8961-5abd13d8dbbf" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design20_备忘录模式/sample_1/Caretaker.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design20_备忘录模式/sample_1/Memeto.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design20_备忘录模式/sample_2/Caretaker.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design20_备忘录模式/sample_2/Game.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design20_备忘录模式/sample_2/Memoto.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design20_备忘录模式/sample_2/Test.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/DesignPattern/design19_中介者模式/sample_2/Test.class" afterPath="$PROJECT_DIR$/out/production/DesignPattern/design19_中介者模式/sample_2/Test.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design21_原型模式/Test.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/design20_备忘录模式/sample_1/Originator.java" afterPath="$PROJECT_DIR$/src/design20_备忘录模式/sample_1/Originator.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/design20_备忘录模式/sample_1/Test.java" afterPath="$PROJECT_DIR$/src/design20_备忘录模式/sample_1/Test.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,11 +15,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/design20_备忘录模式/sample_2/Test.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="630">
               <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/design21_原型模式/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="70">
+              <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -159,7 +161,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="412" />
     <option name="y" value="24" />
     <option name="width" value="1424" />
@@ -205,21 +207,7 @@
               <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="design20_备忘录模式" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="design20_备忘录模式" type="462c0819:PsiDirectoryNode" />
-              <item name="sample_1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="design20_备忘录模式" type="462c0819:PsiDirectoryNode" />
-              <item name="sample_2" type="462c0819:PsiDirectoryNode" />
+              <item name="design21_原型模式" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -446,8 +434,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="412" y="24" width="1424" height="924" extended-state="1" />
-    <editor active="true" />
+    <frame x="412" y="24" width="1424" height="924" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -462,7 +449,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22253923" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22253923" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1010,6 +997,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="630">
           <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design21_原型模式/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
           <folding />
         </state>
       </provider>
