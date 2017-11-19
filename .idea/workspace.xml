@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1aaa24f6-78e1-4045-8961-5abd13d8dbbf" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design19_中介者模式/sample_1/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design19_中介者模式/sample_1/colleague/Colleague.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design19_中介者模式/sample_1/concreteColleague/ConcreteColleagueA.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design19_中介者模式/sample_1/concreteColleague/ConcreteColleagueB.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design19_中介者模式/sample_1/concreteMediator/ConcreteMediator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design19_中介者模式/sample_1/mediator/Mediator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design19_中介者模式/sample_2/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design19_中介者模式/sample_2/colleague/Colleague.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design19_中介者模式/sample_2/conreteColleague/CDDevice.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design19_中介者模式/sample_2/conreteColleague/CPU.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design19_中介者模式/sample_2/conreteColleague/GraphicsCard.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design19_中介者模式/sample_2/conreteColleague/SoundCard.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design19_中介者模式/sample_2/conreteMediator/MainBoard.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design19_中介者模式/sample_2/mediator/Mediator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design20_备忘录模式/sample_1/Originator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design20_备忘录模式/sample_1/Test.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -28,16 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="ConcreteMediator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/design19_中介者模式/sample_1/concreteMediator/ConcreteMediator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="9" column="36" lean-forward="true" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Mediator.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/design19_中介者模式/sample_2/mediator/Mediator.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -149,11 +127,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/design19_中介者模式/sample_2/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
-              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state relative-caret-position="455">
+              <caret line="13" column="6" lean-forward="true" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -161,18 +139,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ConcreteColleagueB.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/design19_中介者模式/sample_1/concreteColleague/ConcreteColleagueB.java">
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/design20_备忘录模式/sample_1/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="455">
-              <caret line="13" column="66" lean-forward="false" selection-start-line="13" selection-start-column="66" selection-end-line="13" selection-end-column="66" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#265#266#0" expanded="true" />
-                <element signature="e#296#297#0" expanded="true" />
-                <element signature="e#338#339#0" expanded="true" />
-                <element signature="e#414#415#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="70">
+              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Originator.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/design20_备忘录模式/sample_1/Originator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="70">
+              <caret line="2" column="23" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -227,12 +209,13 @@
         <option value="$PROJECT_DIR$/src/design19_中介者模式/sample_2/conreteColleague/CDDevice.java" />
         <option value="$PROJECT_DIR$/src/design19_中介者模式/sample_2/conreteMediator/MainBoard.java" />
         <option value="$PROJECT_DIR$/src/design19_中介者模式/sample_2/Test.java" />
+        <option value="$PROJECT_DIR$/src/design20_备忘录模式/sample_1/Test.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="679" />
-    <option name="y" value="113" />
+    <option name="x" value="926" />
+    <option name="y" value="112" />
     <option name="width" value="1424" />
     <option name="height" value="924" />
   </component>
@@ -276,46 +259,14 @@
               <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="design19_中介者模式" type="462c0819:PsiDirectoryNode" />
+              <item name="design20_备忘录模式" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="design19_中介者模式" type="462c0819:PsiDirectoryNode" />
-              <item name="sample_2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="design19_中介者模式" type="462c0819:PsiDirectoryNode" />
-              <item name="sample_2" type="462c0819:PsiDirectoryNode" />
-              <item name="colleague" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="design19_中介者模式" type="462c0819:PsiDirectoryNode" />
-              <item name="sample_2" type="462c0819:PsiDirectoryNode" />
-              <item name="conreteColleague" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="design19_中介者模式" type="462c0819:PsiDirectoryNode" />
-              <item name="sample_2" type="462c0819:PsiDirectoryNode" />
-              <item name="conreteMediator" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="design19_中介者模式" type="462c0819:PsiDirectoryNode" />
-              <item name="sample_2" type="462c0819:PsiDirectoryNode" />
-              <item name="mediator" type="462c0819:PsiDirectoryNode" />
+              <item name="design20_备忘录模式" type="462c0819:PsiDirectoryNode" />
+              <item name="sample_1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -501,7 +452,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="679" y="113" width="1424" height="924" extended-state="0" />
+    <frame x="926" y="112" width="1424" height="924" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -939,11 +890,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/design19_中介者模式/sample_2/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state relative-caret-position="455">
+          <caret line="13" column="6" lean-forward="true" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design20_备忘录模式/sample_1/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design20_备忘录模式/sample_1/Originator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="2" column="23" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+          <folding />
         </state>
       </provider>
     </entry>
