@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c3ea1d74-1670-4c15-ae99-40dd9ce7efc7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design17_责任链模式/sample_2/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design17_责任链模式/sample_2/abstractHandler/Leader.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="c3ea1d74-1670-4c15-ae99-40dd9ce7efc7" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -141,7 +137,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="902" />
+    <option name="x" value="680" />
     <option name="y" value="68" />
     <option name="width" value="1304" />
     <option name="height" value="914" />
@@ -437,15 +433,15 @@
       <option name="presentableId" value="Default" />
       <updated>1510710436143</updated>
       <workItem from="1510710438995" duration="13462000" />
-      <workItem from="1510743739908" duration="65227000" />
+      <workItem from="1510743739908" duration="65280000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78689000" />
+    <option name="totallyTimeSpent" value="78742000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="902" y="68" width="1304" height="914" extended-state="0" />
+    <frame x="680" y="68" width="1304" height="914" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
