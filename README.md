@@ -21,3 +21,11 @@
 ###### ❀迪米特原则
 一个类应该对自己需要耦合或调用的类知道的最少，类的内部如何实现与调用者或者依赖者没有关系，调用者或者依赖者只需要知道它需要的方法即可。（解耦合，降低类之间的耦合度）。<br>
 
+<table  style="border-width:20; border-color:Red">
+  <tr>
+    <td style="background-color: #ffffff;">生活是自己的，你选择怎样的生活，就会成就怎样的你。与其抱怨这个世界不美好，不如用自己的努力，争取更多的美好和幸运。</td>
+    <td style="background-color: #f7acbc;">
+      <img src="https://img0.baidu.com/it/u=1059389492,972474899&fm=253&fmt=auto&app=138&f=JPEG" width="100%">
+    </td>
+  </tr>
+</table>
