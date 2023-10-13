@@ -28,10 +28,10 @@
 | :------------ | :--------: |
 | 生活是自己的，你选择怎样的生活，就会成就怎样的你。与其抱怨这个世界不美好，不如用自己的努力，争取更多的美好和幸运。      | ![图片](https://img0.baidu.com/it/u=1059389492,972474899&fm=253&fmt=auto&app=138&f=JPEG) |
 
-<table border="0">
+<table border="0" bordercolor="red">
   <tr>
-    <td style="background-color: #f1f1f1;">生活是自己的，你选择怎样的生活，就会成就怎样的你。与其抱怨这个世界不美好，不如用自己的努力，争取更多的美好和幸运。</td>
-    <td style="background-color: #f0f0f0;">
+    <td >生活是自己的，你选择怎样的生活，就会成就怎样的你。与其抱怨这个世界不美好，不如用自己的努力，争取更多的美好和幸运。</td>
+    <td >
       <img src="https://img0.baidu.com/it/u=1059389492,972474899&fm=253&fmt=auto&app=138&f=JPEG" width="100%">
     </td>
   </tr>
