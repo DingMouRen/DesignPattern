@@ -30,5 +30,5 @@
 </table>
 
 <div style="text-align:center">
-    <img src="https://img0.baidu.com/it/u=1059389492,972474899&fm=253&fmt=auto&app=138&f=JPEG" width="100%">
+    <img src="https://img0.baidu.com/it/u=1059389492,972474899&fm=253&fmt=auto&app=138&f=JPEG" width="30%">
 </div>
